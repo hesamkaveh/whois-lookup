@@ -1,5 +1,5 @@
 '''
-developered by HesamKaveh
+developed by HesamKaveh
 hk.hesam.hk@gmail.com
 version 0.1
 '''

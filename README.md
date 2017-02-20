@@ -7,7 +7,7 @@ Install pythonwhois module
      sudo pip install pythonwhois
 
 
-### How to use?
+### Usage
 Enter domain names on `domains.txt`.
 
 Enter your considered prefixes on `whois lookup.py`.
